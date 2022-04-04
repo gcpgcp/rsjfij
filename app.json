@@ -7,10 +7,10 @@
     "env": {
         "UUID": {
             "description": "V2Ray UUID",
-            "value": "ce7ea10b-5b27-49ab-a93d-6b184df9cce9"
+            "value": "935c2b85-510c-4396-97b1-57ada1c2465b"
         }
     },
-    "website": "https://github.com/zizifn/v2ray-heroku",
-    "repository": "https://github.com/zizifn/v2ray-heroku",
+    "website": "https://github.com/gcpgcp/rsjfij",
+    "repository": "https://github.com/gcpgcp/rsjfij",
     "stack": "container"
 }
